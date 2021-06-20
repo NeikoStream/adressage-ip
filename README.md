@@ -4,7 +4,7 @@ Nous avons utilisé l'extension LiveShare de VisualCode ce qui nous a permis de 
 le même document en voyant ce que faisait l'autre.
 
 
-Notre programme proposse un l'affichage suivant :
+*Notre programme proposse un l'affichage suivant :
 
 ________________________________
 
