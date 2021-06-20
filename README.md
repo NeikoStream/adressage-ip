@@ -6,6 +6,8 @@ le même document en voyant ce que faisait l'autre.
 
 Notre programme proposse un l'affichage suivant :
 
+________________________________
+
 Entrer une adresse IP (format : 0.0.0.0/0):45.45.45.45/24
 
 \________________________________
@@ -23,8 +25,11 @@ Type : public
 \________________________________
 
 
+________________________________
 
 Ou celui-ci si l'IP n'est pas valide: 
+
+________________________________
 
 Entrer une adresse IP (format : 0.0.0.0/0):45555
 
@@ -33,3 +38,5 @@ Entrer une adresse IP (format : 0.0.0.0/0):45555
 L'IP ou le masque saisi n'est pas correct
 
 \________________________________
+
+________________________________
