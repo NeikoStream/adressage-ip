@@ -7,7 +7,7 @@ le même document en voyant ce que faisait l'autre.
 Notre programme proposse un l'affichage suivant :
 
 Entrer une adresse IP (format : 0.0.0.0/0):45.45.45.45/24
-________________________________
+\________________________________
 
 ipv4 : 45.45.45.45
 Classe A
