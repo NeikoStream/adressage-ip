@@ -11,16 +11,25 @@ Entrer une adresse IP (format : 0.0.0.0/0):45.45.45.45/24
 \________________________________
 
 ipv4 : 45.45.45.45
+
 Classe A
+
 Adresse réseau : 45.45.45.0
+
 Adresse host : 0.0.0.45
+
 Type : public
+
 \________________________________
+
 
 
 Ou celui-ci si l'IP n'est pas valide: 
 
 Entrer une adresse IP (format : 0.0.0.0/0):45555
+
 \________________________________
+
 L'IP ou le masque saisi n'est pas correct
+
 \________________________________
